@@ -13,11 +13,7 @@
 # Структура проекта
 library-project/
 ├── library.py              # основной код
-
 ├── library_books.json      # каталог книг
-
 ├── library_readers.json    # читатели
-
 ├── library_loans.json      # истории выдач
-
 └── README.md               # этот файл
